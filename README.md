@@ -60,3 +60,8 @@ Rainy Climate Identification
 **Rainfall Predictive System**
 
 http://127.0.0.1:8080/
+
+
+**Distribution of Attributes**
+
+![Rainfall-Predictive-Analysis](https://github.com/MuhammedYaseen786/Rainfall-Predictive-Analysis/blob/main/Distribution%20of%20attributes.png)
