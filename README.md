@@ -45,6 +45,11 @@ Rainy Climate Identification
 *  Outliers of attributes
 
 
+**Distribution of Attributes**
+
+![Rainfall-Predictive-Analysis](https://github.com/MuhammedYaseen786/Rainfall-Predictive-Analysis/blob/main/Distribution%20of%20attributes.png)
+
+
 **Model Building**
 *  train_test_split, GridSearchCV, cross_val_score (.model_selection)
 *  classification_report, confusion_matrix, accuracy_score (.metrics)
@@ -62,6 +67,3 @@ Rainy Climate Identification
 http://127.0.0.1:8080/
 
 
-**Distribution of Attributes**
-
-![Rainfall-Predictive-Analysis](https://github.com/MuhammedYaseen786/Rainfall-Predictive-Analysis/blob/main/Distribution%20of%20attributes.png)
